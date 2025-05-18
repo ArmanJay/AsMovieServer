@@ -26,5 +26,12 @@
     "description": "یک دکتر بسیار حرفه ای که برای گذر زندگی اش که بسیار سخت میگذرد و همسر او وی را ول کرده او مجبور است که برای درآمد بیشتر کار هایی را انجام دهد ازجمله لوله کشی دکتر فضا نوردی وکیل و خیلی دیگر.",
     "video_url":"",
     "thumbnail": "https://raw.githubusercontent.com/ArmanJay/AsMovieServer/main/amo.jpg"
+  },
+    {
+    "id": 5,
+    "title": "پسر بد",
+    "description": "وی پسری فعال در زمینه کامپیوتر است که علاقه زیادی به برنامه نویسی اندروید با جاوا دارد و آن دخترک استاد برنامه نویسی جاوا است که دارد به ایشان کمک میکند",
+    "video_url":"",
+    "thumbnail": "https://raw.githubusercontent.com/ArmanJay/AsMovieServer/main/gay.jpg"
   }
 ]
