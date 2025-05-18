@@ -19,5 +19,12 @@
     "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
     "video_url": "https://mobo.642878.ir.cdn.ir/v2/movie/1999/tt0137523/softsub/Fight.Club.1999.720p.BR-Rip.x265.8-Bit(MoboMovies).mkv",
     "thumbnail": "https://raw.githubusercontent.com/ArmanJay/AsMovieServer/main/fightclub.jpg"
+  },
+    {
+    "id": 4,
+    "title": "دکتر حرفه ای",
+    "description": "یک دکتر بسیار حرفه ای که برای گذر زندگی اش که بسیار سخت میگذرد و همسر او وی را ول کرده او مجبور است که برای درآمد بیشتر کار هایی را انجام دهد ازجمله لوله کشی دکتر فضا نوردی وکیل و خیلی دیگر.",
+    "video_url":"",
+    "thumbnail": "https://raw.githubusercontent.com/ArmanJay/AsMovieServer/main/amo.jpg"
   }
 ]
